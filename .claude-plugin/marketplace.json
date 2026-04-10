@@ -1,0 +1,23 @@
+{
+  "name": "diakon-marketplace",
+  "owner": {
+    "name": "Ernie Sim",
+    "url": "https://github.com/idl3"
+  },
+  "plugins": [
+    {
+      "name": "dk",
+      "source": "./",
+      "version": "0.1.4",
+      "description": "Multi-project workspace orchestration — manage projects, git operations, and encrypted secrets across a unified workspace.",
+      "author": {
+        "name": "Ernie Sim",
+        "url": "https://github.com/idl3"
+      },
+      "homepage": "https://github.com/idl3/diakon",
+      "repository": "https://github.com/idl3/diakon",
+      "license": "CC-BY-NC-4.0",
+      "keywords": ["workspace", "multi-repo", "orchestration", "monorepo", "secrets", "sops", "age"]
+    }
+  ]
+}

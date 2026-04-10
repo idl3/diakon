@@ -1,0 +1,14 @@
+{
+  "name": "dk",
+  "version": "0.2.0",
+  "description": "Multi-project workspace orchestration — manage projects, git operations, encrypted secrets, and LLM wikis (Karpathy pattern) across a unified workspace.",
+  "author": {
+    "name": "Ernie Sim"
+  },
+  "license": "CC-BY-NC-4.0",
+  "keywords": ["workspace", "multi-repo", "orchestration", "monorepo", "secrets", "sops", "age"],
+  "agents": [
+    "./agents/workspace-steward.md"
+  ],
+  "skills": ["./skills/"]
+}
